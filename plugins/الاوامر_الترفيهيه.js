@@ -93,6 +93,35 @@
 '*حافظ على صحتك وجسمك ولياقتك البدنية واهم شئ صلاتك💗*',
 '*ان رحمت احدا في الحياة فأن الله سيرحمك في الاخرة🕊*',
 ];
+   }else if (/^الفروع$/i.test(m.text)) { 
+     responses = [ 
+'*~◞🕸فروع سبايدر🕸◜~*
+*❆━•✠•━━•﹝🕷﹞•━━•✠•━❆*
+*┣الفرع❶┇➥*
+
+◈╎```https://chat.whatsapp.com/DBln2P93Ivx2bdzbjKMR3a```
+*❋• ┈─━ ◞🕷◜ ━─┈ •❋*
+*┣الفرع❷┇➥*
+
+◈╎```https://chat.whatsapp.com/Eolqe7ab4UcF0sh2jWSnJV```
+*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❸┇➥*
+
+◈╎```https://chat.whatsapp.com/HtbPJlBPpp40mAEPTq4Izt```
+*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❹┇➥*
+
+◈╎```https://chat.whatsapp.com/GBGC65gksGFLsbIeXFmNOq```
+*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❺┇➥*
+
+◈╎```https://chat.whatsapp.com/JalozVpYAkPLrpLqcqBrnh```
+*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣فرع الملصقات🎭┇➥*
+
+◈╎```https://chat.whatsapp.com/HsUpoUYYdaXDoCHULObtOv```
+*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣فرع الصور🪐┇➥*
+
+◈╎```https://chat.whatsapp.com/HYkO0WWGlpO9AeaaiNeimf```
+*❆━•✠•━━•﹝🕷﹞•━━•✠•━❆*
+*✠╎sρiɒєя‹🕷›sнαяє╎✠*',
+];
 
     }  
    if (responses) { 
