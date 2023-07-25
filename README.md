@@ -1,16 +1,16 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="neno" height="300" src="https://telegra.ph/file/4fedb05e75bd0fea7c627.jpg">
+    <img alt="nino" height="300" src="https://telegra.ph/file/4fedb05e75bd0fea7c627.jpg">
     <h1 align="center">نينو</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://wa.me/201206178781"><img title="Author" src="https://img.shields.io/badge/neno-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/201206178781"><img title="Author" src="https://img.shields.io/badge/nino-blue?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 ####  
-neno whatsapp bot.
+nino whatsapp bot.
 
 ***
 
