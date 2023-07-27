@@ -146,6 +146,28 @@ let handler = m => m;
      responses = [ 
 '*اطلق من يتفق💜🦦*',
      ];
+   }else if (/^احا$/i.test(m.text)) { 
+     responses = [ 
+'*الفاظك يسطا🐦*',
+     ]; 
+   }else if (/^نينو احبك$/i.test(m.text)) { 
+     responses = [ 
+'*وانا اكثر يقلبيي🤍😔*', 
+'*وانا كمانن🫀*',  
+'*يدوم حبك لي ياحلو🫶😊*',
+     ]; 
+   }else if (/^مادارا$/i.test(m.text)) { 
+     responses = [ 
+'*العم💜💀*',
+     ]; 
+   }else if (/^استا$/i.test(m.text)) { 
+     responses = [ 
+'*الفخامة بحد ذاتها💜🦦*',
+];
+   }else if (/^ايس$/i.test(m.text)) { 
+     responses = [ 
+'*دوناتس🍩💀*',
+     ]; 
     }  
    if (responses) { 
      let randomIndex = Math.floor(Math.random() * responses.length); 
